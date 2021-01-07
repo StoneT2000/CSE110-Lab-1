@@ -14,6 +14,8 @@ You can find all images [here](assets/)
 
 And now Daenarys's Story begins...
 
+![](assets/daenarys.jpg)
+
 ## Daenarys Stormborn of House Targaryen
 
 Season 1 we see Daenarys enter the frame, as a Targaryen, but also as her brother's pawn in an attempt to control the Dothraki's army to take control of [Westeros](https://gameofthrones.fandom.com/wiki/Westeros)
