@@ -2,7 +2,7 @@
 
 ***Spoiler ALERT***
 
-**Daenarys Targaryen** had a great story for 6-7 seasons. Then i dont know why they decided she should suddenly go mad in season 8 and torch King's Landing with drogon but :facepalm:
+**Daenarys Targaryen** had a great story for 6-7 seasons. Then i dont know why they decided she should suddenly go mad in season 8 and torch King's Landing with drogon :facepalm:
 
 To clone this `README.md`, you can do
 
@@ -41,9 +41,13 @@ Daenarys travels across the narrow sea with her army of Unsullied and Dothraki. 
 
 > Daenerys Stormborn of House Targaryen, the First of Her Name, Queen of the Andals and the First Men, Protector of the Seven Kingdoms, the Mother of Dragons, the Khaleesi of the Great Grass Sea, the Unburnt, the Breaker of Chains
 
+quoting poor Missandei (her loyal advisor she freed from Kraznys) who probably says this every other day
+
 ## Appendix A - The Dragons
 
 ### Drogon
+
+![](assets/drogon.png)
 
 Biggest dragon of them all, and also gets the most screen time
 
@@ -77,8 +81,9 @@ Season 8 logic = none
 
 ## Things for HBO to do
 
-[x] - work with George R. R. Martin on first 6 seasons
-[ ] - remake the final season
-[ ] - remake the final season
-[ ] - remake the final season
-[ ] - remake the final season
+- [x] turn a Song of Ice and Fire into a TV show called Game of Thrones
+- [ ] remake the final season
+- [ ] remake the final season
+- [ ] remake the final season
+- [ ] remake the final season
+
