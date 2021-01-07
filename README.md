@@ -51,11 +51,15 @@ quoting poor Missandei (her loyal advisor she freed from Kraznys) who probably s
 
 Biggest dragon of them all, and also gets the most screen time
 
-### Viserys
+### Viserion
 
-Ultimately converted into a undead dragon.
+![](assets/viserion.jpg)
+
+Ultimately converted into a undead dragon and broke the wall of ice.
 
 ### Rhaegal
+
+![](assets/rhaegal.jpg)
 
 Somehow dies to 4 scorpion bolts (giant crossbow bolts) yet Drogon dodges all of them??????
 
@@ -79,6 +83,12 @@ Season 8 logic = none
       1. even more nesting :o
       2. how is this possible!
 
+### Tables
+| col1 | col2 |
+| --- | --- |
+| nothing important | something important |
+
+###### h5
 ## Things for HBO to do
 
 - [x] turn a Song of Ice and Fire into a TV show called Game of Thrones
