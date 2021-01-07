@@ -93,9 +93,12 @@ Season 8 logic = none
       2. how is this possible!
 
 ### Tables
-| col1 | col2 |
-| --- | --- |
-| nothing important | something important |
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 
 ###### h5
 ## Things for HBO to do
