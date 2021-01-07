@@ -45,6 +45,8 @@ Daenarys travels across the narrow sea with her army of Unsullied and Dothraki. 
 
 quoting poor Missandei (her loyal advisor she freed from Kraznys) who probably says this every other day
 
+Then Jon Snow kills Daenarys, who he also loves, because Tyrion convinced him that this will save the people because Daenarys has become a mad Targaryen
+
 ## Appendix A - The Dragons
 
 ### Drogon
