@@ -11,6 +11,11 @@ git clone https://github.com/StoneT2000/CSE110-Lab-1.git
 ```
 You can find all images [here](assets/)
 
+and if you want to scream because of the 8th season, try this JS snippet
+
+```js
+console.log("season 8 huh?!?!?!?!??!?!?!?!")
+```
 
 And now Daenarys's Story begins...
 
